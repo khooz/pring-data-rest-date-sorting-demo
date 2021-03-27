@@ -1,0 +1,1 @@
+This is a demo which is shared on StackOverflow for clarification on a [question](https://stackoverflow.com/questions/66829865/spring-data-rest-cannot-sort-by-localdatetime-field).
